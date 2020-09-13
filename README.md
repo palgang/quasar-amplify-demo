@@ -1,4 +1,4 @@
-# Quasar Demo (quasar-demo)
+# Quasar Demo (quasar-demo) - AmplifyTest
 
 A Quasar Application utilizing AWS Amplify Services
 
